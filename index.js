@@ -183,6 +183,6 @@ function twoAverages(array1, array2){
  let result = twoAverages(GroceryStore1, GroceryStore2);
 console.log(result);
 
-   //This function is helping me find which grocery store is the cheapest for same items
+   //This function is helping me find which grocery store is the cheapest for same items.
 
    
